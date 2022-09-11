@@ -121,3 +121,6 @@ Esto abrirá la url de tu API, ahora verifica que esté funcionando dirigiendote
 
 Si todo está bien configurado, verás el mensaje de inicio de tu API.
 
+# things to remember
+
+`https://dashboard.heroku.com/apps/neptune-nodejs/deploy/github`
