@@ -123,4 +123,16 @@ Si todo está bien configurado, verás el mensaje de inicio de tu API.
 
 # things to remember
 
-`https://dashboard.heroku.com/apps/neptune-nodejs/deploy/github`
+[https://dashboard.heroku.com/apps/neptune-nodejs/deploy/github](https://dashboard.heroku.com/apps/neptune-nodejs/deploy/github)
+
+# how to add a category
+
+<img width="1624" alt="Screen Shot 2022-09-11 at 1 40 39 a m" src="https://user-images.githubusercontent.com/24994818/189515610-7b29410d-4a55-4647-a4cb-f3f2e82df5b2.png">
+
+# How to know a category was added
+
+<img width="1624" alt="Screen Shot 2022-09-11 at 1 41 41 a m" src="https://user-images.githubusercontent.com/24994818/189515623-5502e6da-2301-4507-a0c2-767a614466d7.png">
+
+# request all products
+
+<img width="1624" alt="Screen Shot 2022-09-11 at 1 42 56 a m" src="https://user-images.githubusercontent.com/24994818/189515652-b0287b68-16af-44f1-9d28-3e155cd1b79b.png">
